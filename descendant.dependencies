@@ -1,0 +1,14 @@
+[
+ {
+   "repository": "ArrowOS-Devices/android_vendor_xiaomi_phoenix",
+   "target_path": "vendor/xiaomi/phoenix",
+    "branch": "arrow-11.0",
+    "remote": "github"
+ },
+ {
+   "repository": "ArrowOS-Devices/android_kernel_xiaomi_phoenix",
+   "target_path": "kernel/xiaomi/phoenix",
+    "branch": "arrow-11.0",
+    "remote": "github"
+ }
+]
