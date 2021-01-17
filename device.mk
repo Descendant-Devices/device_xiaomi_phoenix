@@ -63,7 +63,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    GCamGOPrebuilt
+    Camera2
 
 PRODUCT_PACKAGES += \
 	libmedia_jni_shim
