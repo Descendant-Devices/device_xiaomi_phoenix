@@ -26,4 +26,5 @@
     -->
     <bool name="config_supportsRefreshRateSwitch">false</bool>
 
+    <!-- Device specific doze package -->
 </resources>
