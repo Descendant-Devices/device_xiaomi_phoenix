@@ -27,4 +27,8 @@
     <!-- the padding on the end of the statusbar -->
     <dimen name="status_bar_padding_end">2dp</dimen>
     <dimen name="rounded_corner_content_padding">7.0dip</dimen>
+        <!-- Fonts height -->
+    <dimen name="weather_city_qs">20dp</dimen>
+    <dimen name="date_qs">12dp</dimen>
+    <dimen name="weather_degrees_qs">24dp</dimen>
 </resources>
